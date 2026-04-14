@@ -1,0 +1,12 @@
+{
+  "traditionalDress": [
+    {
+      "id": "mising-traditional-dress-jia-bharali",
+      "title": "Traditional Mising Attire",
+      "location": "Jia Bharali, Assam",
+      "src": "https://raw.githubusercontent.com/PranjalPanging/mising-heritage-assets/main/images/traditional-dress/jia-bharali/misig-miyum.jpg",
+      "description_en": "A group of Mising women photographed in the Jia Bharali region, documenting the community's traditional attire. The ensemble features the **Égé** as the primary lower garment, layered with the black **Tongali** (waist wrap). The attire is traditionally paired with the **Gebu**, a yellow handloom cloth distinctive to the Mising people of this area.",
+      "tags": ["Mising", "Jia Bharali", "Égé", "Tongali", "Gebu"]
+    }
+  ]
+}
